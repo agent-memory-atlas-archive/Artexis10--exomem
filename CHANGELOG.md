@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.98.0](https://github.com/Artexis10/exomem/compare/v0.97.0...v0.98.0) (2026-09-29)
+
+
+### Features
+
+* wave B-D batch: activation quality, CJK, identity, resolver, sensed model, attachments, ingress ([#1444](https://github.com/Artexis10/exomem/issues/1444)) ([ddc7aac](https://github.com/Artexis10/exomem/commit/ddc7aac9bd8d9d82e23f18a3e3e22c7d5c226579))
+
+
+### Bug Fixes
+
+* **graph:** prove an inherited graph sidecar once, never on a bounded path ([#1460](https://github.com/Artexis10/exomem/issues/1460)) ([c44eaa0](https://github.com/Artexis10/exomem/commit/c44eaa0bfce8432ecceeb0701c7c45e25cb939ed))
+
 ## [0.97.0](https://github.com/Artexis10/exomem/compare/v0.96.0...v0.97.0) (2026-09-28)
 
 
